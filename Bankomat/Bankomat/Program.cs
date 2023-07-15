@@ -72,7 +72,7 @@
                     }
                      else if(mp == 5)
                     {
-                        Console.WriteLine("                                  Sms xabarnomaga ulash");
+                        Console.WriteLine("                                  Telifon raqamga to'lov");
                         Console.Write("Raqamni kiriting: +998 ");
                         Console.ReadLine();
                         Console.Write("To'lov summasi:");
